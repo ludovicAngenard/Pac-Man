@@ -112,7 +112,7 @@ def arbitre():
                 lois()
                 commencer()
             else:
-                fenetre.after(10,relais)
+                fenetre.after(10,arbitre)
 
         if level>=8:
             if positionb==position or positionr==position or positionv==position or positionj==position or positionp==position or positionn==position or positionn2==position or positionn3==position or positionn4==position:
