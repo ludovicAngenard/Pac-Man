@@ -20,6 +20,8 @@ Pour installer le Pac-man, vous devez juste télécharger python 3.0 au minimum.
 * pygame 
 * random
 
+Si elles sont installées vous pouvez les importer comme ci-dessous. Normalement cette partie est déjà présente dans les scripts!
+
 ```
   from tkinter import *
   from tkinter import messagebox
@@ -28,6 +30,7 @@ Pour installer le Pac-man, vous devez juste télécharger python 3.0 au minimum.
   import time
   import pygame
 ```
+
 Vous pouvez tout simplement télécharger édupython en cliquant sur ce lien : https://edupython.tuxfamily.org/ qui est un éditeur où toutes les bibliothèques sont déjà préinstallé et où vous pouvez éxécuter le code en appuyant sur le triangle vert au niveau de la barre d'outil. Une fois ceci fait, **vous devez juste éxécuter le script dans le fichier "run.py"**
 
 ----------------------------------------------------------------------------------------------------------------------------------------
