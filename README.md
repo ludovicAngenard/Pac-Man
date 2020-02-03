@@ -7,7 +7,7 @@ Voici un code fini en Python que j'ai réalisé seul pendant mon temps libre lor
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Qu'est ce que c'est? 
 
-Mon jeu reprend les règles classiques du pac man avec quelques ajouts sympatiques comme des déguisements débloquables en augmentant de niveaux et en achetant avec de la monnaie virtuelle que vous pouvez gagner au cours d'une partie. Bien sur vous incarnez un petit camembert jaune au départ qui doit manger le plus de billes jaunes possible. Quatre fantômes de couleurs  qui se déplacent aléatoirement vont essayer de vous manger, alors faites attention. A partir du niveau 10, vous débloquerez une difficulté supplémentaire, je vous laisse la découvrir.
+Mon jeu reprend les règles classiques du pac man avec quelques ajouts sympatiques comme des déguisements débloquables en augmentant de niveaux et en achetant avec de la monnaie virtuelle que vous pouvez gagner au cours d'une partie. Bien sur vous incarnez un petit camembert jaune au départ qui doit manger le plus de billes jaunes possible. Quatre fantômes de couleurs  qui se déplacent aléatoirement vont essayer de vous manger, alors faites attention. A partir du niveau 8, vous débloquerez une difficulté supplémentaire, je vous laisse la découvrir.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Installation 
@@ -41,12 +41,12 @@ Pour commencer une partie, vous devez cliquer sur le bouton commencer tou simple
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Les déguisements et bonus
 
-Une fois dans le menu cliquez sur le bouton "déguisement". Selon votre niveau, vous allez tomber sur deux étagères plus ou moins vide. La première étagères contient tous les déguisements et la seconde contient la difficulté débloquable a partir du niveau 10. A chaque niveau supplémentaire, vous débloquez un nouveau déguisement. Cependant, vous ne l'avez pas encore dans votre collection car il va falloir l'acheter avec votre monnaie virtuelle en cliquant sur le déguisement en question. Si vous n'avez pas assez de monnaie, rien ne se produira. En revanche, si vous en avez assez, une boîte de messages vous demande si vous voulez vraiment l'acheter puis si vous voulez l'activer. Pour changer de déguisements, vous avez juste a cliquer sur un déguisement déjà acheté pour l'activer.
+Une fois dans le menu cliquez sur le bouton "déguisement". Selon votre niveau, vous allez tomber sur deux étagères plus ou moins vide. La première étagères contient tous les déguisements et la seconde contient la difficulté débloquable a partir du niveau 8. A chaque niveau supplémentaire, vous débloquez un nouveau déguisement. Cependant, vous ne l'avez pas encore dans votre collection car il va falloir l'acheter avec votre monnaie virtuelle en cliquant sur le déguisement en question. Si vous n'avez pas assez de monnaie, rien ne se produira. En revanche, si vous en avez assez, une boîte de messages vous demande si vous voulez vraiment l'acheter puis si vous voulez l'activer. Pour changer de déguisements, vous avez juste a cliquer sur un déguisement déjà acheté pour l'activer.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Sauvegarde
 
-Si vous avez fait un bon score et que vous avez des déguisements ou que vous avez débloqué la difficulté maximum au niveau 10. Mais que vous ne voulez pas tout perdre, vous pouvez être rassuré car tout est sauvegardé une fois que vous avez fini une partie ou acheté un déguisement. Si vous voulez réinitialiser votre partie, lancez le code dans les fichiers "récompenses.py" puis "progression.py". 
+Si vous avez fait un bon score et que vous avez des déguisements ou que vous avez débloqué la difficulté maximum au niveau 8. Mais que vous ne voulez pas tout perdre, vous pouvez être rassuré car tout est sauvegardé une fois que vous avez fini une partie ou acheté un déguisement. Si vous voulez réinitialiser votre partie, lancez le code dans les fichiers "récompenses.py" puis "progression.py". 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Les fichiers
