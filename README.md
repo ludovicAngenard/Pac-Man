@@ -36,7 +36,7 @@ Vous pouvez tout simplement télécharger édupython en cliquant sur ce lien : h
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Comment jouer ?
 
-Pour commencer une partie, vous devez cliquer sur le bouton commencer tou simplement. Une fois cliqué, la partie se lance directement avec une musique. Utilisez les flèches directionnelles pour déplacer votre personnage. Une fois que vous avez mangé toutes les billes jaunes, déplacez vous une nouvelle fois et la partie s'arrête et vous retournez au menu de départ. Lors de la partie, toutes les 200 billes jaunes mangées, une pièce apparait, prenez là pour pouvoir acheter des déguisements par la suite. Dès que vous vous faîtes manger par un fantôme, vous gardez quand même votre score.
+Pour commencer une partie, vous devez cliquer sur le bouton commencer tout simplement. Une fois cliqué, la partie se lance directement avec une musique. Utilisez les flèches directionnelles pour déplacer votre personnage. Une fois que vous avez mangé toutes les billes jaunes, déplacez vous une nouvelle fois et la partie s'arrête et vous retournez au menu de départ. Lors de la partie, toutes les 200 billes jaunes mangées, une pièce apparait, prenez là pour pouvoir acheter des déguisements par la suite. Dès que vous vous faîtes manger par un fantôme, vous gardez quand même votre score.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Les déguisements et bonus
